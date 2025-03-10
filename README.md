@@ -1,7 +1,7 @@
 # OSSlecture
 repository for OSS lecture study
 
-- 2주차 실습
+- 2주차 실습  
 마크다운 *이텔릭* 어렵지 않아요!<br/>
 진정한 개발자는 **깃허브**를 일기처럼 씁니다
 
