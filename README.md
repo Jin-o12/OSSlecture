@@ -9,7 +9,7 @@ repository for OSS lecture study
 - 목록
 
 1. 첫번쨰
-2. 두번째
+2. 두번째<br/>
    A. 부 목록
 
 $E=mc^2$
@@ -19,7 +19,7 @@ $E=mc^2$
 ### 헤더
 #### 헤더
 <br/>
-동아대학교 홈페이지는 [여기](https://www.donga.ac.kr)로
-My github page is available [here](https://github.com/Jin-o12/OSSlecture)
+동아대학교 홈페이지는 [여기](https://www.donga.ac.kr)로<br/>
+My github page is available [here](https://github.com/Jin-o12/OSSlecture)<br/>
 
 [![Img Alt Text](https://i.namu.wiki/i/P4Dbv1teBfr2HoQXeZEIDe8_0bARa0JPdmV7qb9mxu1KHC4DmHwELCZpOfzIx0zRJy6Iwy8zDwD-1kotC2Co8g.svg)](https://www.donga.ac.kr)
